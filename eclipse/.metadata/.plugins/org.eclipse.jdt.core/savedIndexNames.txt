@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Rob\EclipseWorkspaces\MinecraftForge_1_7_10\forge-1.7.10-10.13.4.1614-1.7.10-src\eclipse\.metadata\.plugins\org.eclipse.jdt.core
